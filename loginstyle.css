@@ -1,0 +1,65 @@
+.content{
+  /* text-align: center; */
+  border : 10px black groove;
+  margin : auto;
+  width : 350px;
+  /* padding : 0 20px; */
+  /* padding-left : 0; */
+  background-color: white;
+  margin-top: 50px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.header{
+  color : rgb(99, 216, 255);
+  background-color: grey;
+  padding: 15px 10px;
+}
+#sub{
+  margin-bottom: 15px;
+  margin-left : 15px;
+  padding : 5px;
+}
+.field{
+  width : 300px;
+  border-radius:10px;
+  height : 35px;
+  margin-left : 10px;
+  margin-top : 5px;
+}
+#notfound{
+  margin-top : 20px;
+  text-align : center;
+}
+#link{
+  border : 2px black solid;
+  color : black;
+  background-color: grey;
+  text-decoration: none;
+  padding : 10px;
+  border-radius: 3px;
+}
+#linkdiv{
+  margin-top : 15px;
+  text-align: center;
+}
+#pwde{
+  color : red;
+  margin-left: 5px;
+}
+
+.labels{
+  margin-left : 15px;
+  font-weight : bolder;
+}
+#header{
+  margin-top : 0px;
+  margin-bottom : 0px;
+}
+#data{
+  margin-top: 15px;
+}
+body{
+  /* background-color: rgba(197, 227, 253, 0.784); */
+  background-image: url("/images/bgi_login_form.jpg");
+}

@@ -1,0 +1,37 @@
+#content{
+  text-align: center;
+  border : 10px black groove;
+  margin : auto;
+  width : 350px;
+  padding : 0 20px;
+  padding-left : 0;
+  background-color: white;
+  margin-top : 30px;
+  box-shadow: 5px 10px 8px #888888;
+  margin-bottom: 30px;
+}
+.labels{
+  margin-left : -150px;
+  font-weight: bolder;
+}
+#header{
+  margin-left : -170px;
+  color : rgb(99, 216, 255);
+  margin : 0 15px;
+}
+#sub{
+  margin-left : -230px;
+  margin-bottom: 5px;
+}
+.field{
+  width : 300px;
+  border-radius: 10px;
+  height : 20px;
+  height : 30px;
+}
+body{
+  background-color: rgba(197, 227, 253, 0.784);
+}
+#form {
+  padding : 10px;
+}
